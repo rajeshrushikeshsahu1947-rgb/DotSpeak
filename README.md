@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:8E44AD,100:2980B9&height=220&section=header&text=DotSpeak&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Braille%20Vision%20AI%20%E2%80%94%20Reading%20Touch%2C%20Bridging%20Worlds&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving\&color=0:6C3483,50:8E44AD,100:2980B9\&height=220\&section=header\&text=DotSpeak\&fontSize=80\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Braille%20Vision%20AI%20%E2%80%94%20Reading%20Touch%2C%20Bridging%20Worlds\&descAlignY=58\&descSize=18" width="100%"/>
+<br><br>
 
-\---
+<img src="https://img.shields.io/badge/🏟️_Hackathon-BrailleVision_2026-6C3483?style=for-the-badge&labelColor=1a0a2e" />
+<img src="https://img.shields.io/badge/✅_Status-Final_Submission-27AE60?style=for-the-badge&labelColor=0a1f0a" />
+<img src="https://img.shields.io/badge/🏆_Prize_Target-₹10_Lakh-FFD700?style=for-the-badge&labelColor=2c2000&color=f0b429" />
 
-<!-- LIVE ANIMATED BADGES -->
+<br><br>
 
-!\[Hackathon](https://img.shields.io/badge/🏟️\_Hackathon-BrailleVision\_2026-6C3483?style=for-the-badge\&labelColor=1a0a2e)
-!\[Status](https://img.shields.io/badge/✅\_Status-Final\_Submission-27AE60?style=for-the-badge\&labelColor=0a1f0a)
-!\[Prize Target](https://img.shields.io/badge/🏆\_Prize\_Target-₹10\_Lakh-FFD700?style=for-the-badge\&labelColor=2c2000\&color=f0b429)
-!\[Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-!\[YOLOv8](https://img.shields.io/badge/YOLOv8--cls-Ultralytics-00BFFF?style=for-the-badge\&logo=pytorch\&logoColor=white)
-!\[PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8--cls-Ultralytics-00BFFF?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-<br/>
+<br><br>
+
 
 > ### 👁️ \*"Where fingers read, our AI listens."\*
 > \*\*DotSpeak\*\* converts tactile Braille into digital text in real time — bridging the gap between touch and technology for 253 million visually impaired people worldwide.
@@ -272,17 +272,23 @@ All model training, dataset curation, and architecture decisions were made by th
 
 *"Technology should be a bridge, not a barrier."*
 
-</div>
 
-\---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving\&color=0:2980B9,50:8E44AD,100:6C3483\&height=120\&section=footer\&text=Thank%20you%20for%20reviewing%20DotSpeak\&fontSize=20\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=65" width="100%"/>
+<br>
 
-**Built with 💜 for accessibility · DotSpeak 2026**
+<table align="center">
+<tr>
+<td align="center"><b>🔤 A–Z Braille</b><br>Full alphabet support</td>
+<td align="center"><b>⚡ GPU Accelerated</b><br>YOLOv8 + MobileNetV3</td>
+<td align="center"><b>📊 Animated Output</b><br>Confidence Visualization</td>
+<td align="center"><b>🌍 Social Impact</b><br>Accessibility Focused</td>
+</tr>
+</table>
 
-*Making Braille visible to the digital world.*
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,50:8E44AD,100:6C3483&height=120&section=footer&text=Thank%20You%20For%20Reviewing%20DotSpeak&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
-
