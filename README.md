@@ -30,7 +30,7 @@
 
 </div>
 
-\---
+---
 
 ## 🧠 What is DotSpeak?
 
@@ -43,7 +43,7 @@
 
 **Core innovation:** Dual-model ensemble (YOLOv8 + MobileNetV3) for cross-validated, high-confidence Braille classification — dramatically reducing misread errors in noisy environments.
 
-\---
+---
 
 ## 🎨 Feature Highlights
 
@@ -94,7 +94,7 @@
 </tr>
 </table>
 
-\---
+---
 
 ## 📂 Repository Structure
 
@@ -127,7 +127,7 @@ DotSpeak/
 └── 📸 screenshots/        ← Visual results
 ```
 
-\---
+---
 
 ## ⚙️ Quick Start — Judges' 2-Minute Verification Guide
 
@@ -168,7 +168,7 @@ yolo classify train \\
   device=0
 ```
 
-\---
+---
 
 ## 🔎 Expected Output
 
@@ -191,7 +191,7 @@ When you run inference, you'll see **animated confidence bars** for each predict
   ✅ Top Prediction: B  |  Inference time: 43ms
 ```
 
-\---
+---
 
 ## 🧩 Tech Stack
 
@@ -204,7 +204,7 @@ When you run inference, you'll see **animated confidence bars** for each predict
 |🧪 **Training Env**|Conda + Jupyter|Reproducible ML pipeline|
 |💻 **Language**|Python 3.10|Core implementation|
 
-\---
+---
 
 ## 🌍 Social Impact
 
@@ -227,7 +227,7 @@ When you run inference, you'll see **animated confidence bars** for each predict
 * 🏛️ **Public infrastructure** — decode Braille signage in real time
 * 💼 **Employment** — enable Braille-based document workflows in offices
 
-\---
+---
 
 ## ✅ Judges' Verification Checklist
 
@@ -244,7 +244,7 @@ When you run inference, you'll see **animated confidence bars** for each predict
 |`requirements.txt` with pinned deps|✅|Root directory|
 |Sample input for instant testing|✅|`sample\_inputs/`|
 
-\---
+---
 
 ## 🤖 AI Tools Disclosure
 
@@ -259,16 +259,12 @@ In the spirit of transparency, the following AI tools were used in this project:
 
 All model training, dataset curation, and architecture decisions were made by the team.
 
-\---
+---
 
 ## 👨‍💻 About the Developer
 
 <div align="center">
 
-**Rajesh Rushikesh Sahu**
-*AI/ML Developer*
-
-[!\[GitHub](https://img.shields.io/badge/GitHub-rajeshrushikeshsahu1947--rgb-181717?style=for-the-badge\&logo=github)](https://github.com/rajeshrushikeshsahu1947-rgb)
 
 *"Technology should be a bridge, not a barrier."*
 
